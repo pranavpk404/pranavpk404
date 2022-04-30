@@ -3,7 +3,7 @@
   learning and problem-solving. I have a strong background in
   web development and have worked on a wide range of projects</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next JS**
 
 
 - 💬 Ask me about **Python**
