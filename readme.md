@@ -1,14 +1,3 @@
-<h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">  I am a self-taught frontend developer with a passion for
-  learning and problem-solving. I have a strong background in
-  web development and have worked on a wide range of projects</h3>
-
-- 🌱 I’m currently learning **Next JS**
-
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **pranavpk404@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
