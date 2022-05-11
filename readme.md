@@ -16,7 +16,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavpk404&show_icons=true&locale=en&layout=compact" alt="pranavpk404" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavpk404&show_icons=true&locale=en&layout=compact" alt="pranavpk404" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavpk404&show_icons=true&locale=en" alt="pranavpk404" /></p>
 
