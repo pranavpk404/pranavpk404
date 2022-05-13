@@ -15,8 +15,4 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavpk404&show_icons=true&locale=en&layout=compact" alt="pranavpk404" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavpk404&show_icons=true&locale=en" alt="pranavpk404" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavpk404&" alt="pranavpk404" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=config)](https://github.com/anuraghazra/github-readme-stats)
