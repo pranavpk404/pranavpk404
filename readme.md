@@ -46,4 +46,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - [10 Backend Programming Languages To Use in 2022](https://blog-pranav.vercel.app/post/10-backend-programming-languages-to-use-in-2022)
 - [Material UI vs Chakra UI](https://blog-pranav.vercel.app/post/material-ui-vs-chakra-ui)
-- [Six JavaScript Frameworks to Use in 2022](https://blog-pranav.vercel.app/post/six-javascript-frameworks-to-use-in-2022)<!--
+- [Six JavaScript Frameworks to Use in 2022](https://blog-pranav.vercel.app/post/six-javascript-frameworks-to-use-in-2022)
